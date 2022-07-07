@@ -28,3 +28,7 @@ pip install matplotlib (optional)
 python main.py 
 ```
 Note: On running the above command you would be prompted to enter the relative path of the temperature_bands dataset (Enter without quotes)
+
+Example: 
+
+```Enter the path of the Temperature bands CSV: data/Temperature_bands.csv```
